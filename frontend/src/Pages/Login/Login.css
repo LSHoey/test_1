@@ -1,0 +1,60 @@
+.outsideContainer {
+    position: absolute;
+    margin: 0;
+    background-color: #a7adb4e3;
+    height: 100%;
+    top: 0;
+}
+
+.logInContainer {
+    margin: 10% auto;
+    padding: 80px 0;
+    text-align: center;
+    background-color: #e6e6e6e3;
+    border-radius: 8px;
+    width: 350px;
+    height: 540px;
+    position: relative;
+}
+
+.logInContainer h2 {
+    font-size: 15px;
+    font-weight: 200;
+    color: grey;
+}
+
+.logInInput {
+    background-color: white;
+    width: 250px;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 10px 15px;
+    margin: 0 auto 10px auto;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.passwordChecker {
+    width: 250px;
+    margin: 0 auto;
+}
+
+.logInButton {
+    appearance: none;
+    outline: 0;
+    color: white;
+    border: 0;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #292d31e3;
+    border-radius: 6px;
+    width: 250px;
+    font-size: 18px;
+}
+
+.logInIcon {
+    width: 70px;
+    height: 70px;
+}
